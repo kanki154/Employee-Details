@@ -8,6 +8,7 @@ class StudentCurdOpsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		private String name="Ashok";
 	}
 
 }
